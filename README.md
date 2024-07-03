@@ -13,9 +13,13 @@ Bank Footing Indicator
 ## Misc Features:
 
 Unlock All
+
 All items 1 Coin
+
 Auto-Car 
+
 Timestop
+
 Autoguard
 
 ## Script
