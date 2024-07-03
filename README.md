@@ -3,8 +3,11 @@
 ## Main Features:
 
 Close Footing Range Indicator
+
 Middle Footing Range Indicator
+
 Far Footing Range Indicator
+
 Bank Footing Indicator
 
 ## Misc Features:
