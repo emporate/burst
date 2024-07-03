@@ -1,6 +1,6 @@
 ## Burst | Streetball GUI
 
-### [1] ![pic1](https://github.com/emporate/burst/blob/main/BURST.png)
+### ![pic1](https://github.com/emporate/burst/blob/main/BURST.png)
 
 ## Main Features:
 
