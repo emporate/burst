@@ -1,5 +1,7 @@
 ## Burst | Streetball GUI
 
+https://github.com/emporate/burst/blob/main/BURST.png
+
 ## Main Features:
 
 Close Footing Range Indicator
